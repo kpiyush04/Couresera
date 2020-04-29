@@ -1,1 +1,1 @@
-# Couresera
+# Coursera course on Data Visualization
