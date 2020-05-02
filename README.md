@@ -1,1 +1,1 @@
-# Coursera course on Data Visualization
+# Coursera course on Data Science
